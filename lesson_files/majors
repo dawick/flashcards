@@ -1,0 +1,14 @@
+# Flash cards: Japanese vocabulary Lesson 1
+# -*- coding: utf-8 -*-
+
+cards = [
+['かがく ', 'science', '科学 '],
+['アジアけんきゅう ', 'Asian studies', 'アジア研究 '],
+['こくさいかんけい ', 'international relations', '国際関係 '],
+['コンピューター ', 'computer', ''],
+['じんるいがく ', 'anthropology', '人類学 '],
+['せいじ ', 'politics', '政治 '],
+['ビジネス ', 'business', ''],
+['ぶんがく ', 'literature', '文学 '],
+['れきし ', 'history', '歴史 '],
+]
