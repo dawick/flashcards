@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Would like to change program to run as a self-contained program,
+# so I don't have to root it in my Home.
+# That requires replacing the os.path nonsense with something more straight-forward.
+
+
 # Set up flash card sets in $HOME/.flashcards/filename
 # where each filename defines an array called cards, like this:
 # cards = [
@@ -22,7 +27,7 @@ def print_card(card) :
         print word, "      ",
     print ""
 
-print "Flash card script version 0.3 by Akkana Peck. (Modified by Yoshi)\n"
+#print "Flash card script version 0.3 by Akkana Peck. (Modified by Yoshi)\n"
 print "On seeing a word, think of the answer then hit return."
 print "Then hit return again to see the next word."
 print "But if you got it wrong, type anything besides q before hitting Return"
